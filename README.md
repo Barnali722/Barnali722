@@ -6,11 +6,11 @@
 
 ###
 
-<h1 align="center">About Me 🏄‍♂️</h1>
+<h1 align="center">About me 🏄‍♂️</h1>
 
 ###
 
-<p align="left">🎓 <b>DATA SCIENCE</b> student from India<br>📚 learning : <b>MLOps</b> , <b>AI/ML</b> , <b>Deep Learning</b> & <b>DSA</b>b<br>🚀 Exploring : <b>Generative AI</b>, <b>Scalable ML Systems</b> & <b>Advance Tech</b><br>✨ Dream : To become a <b>Global ML Engineer</b> building tech for human impact.</p>
+<p align="left">🎓 DATA SCIENCE student from India<br>📚 learning : MLOps , AI/ML , Deep Learning & DSA<br>🚀 Exploring : Generative AI, Scalable ML Systems & Advance Tech<br>✨ Dream : To become a Global ML Engineer building tech for human impact.</p>
 
 ###
 
@@ -54,6 +54,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="https://in.linkedin.com/in/barnali-tanti-ba5324382" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
@@ -64,6 +66,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">⚡ GitHub Analytics</h3>
 
