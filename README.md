@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="201" src="https://wallpaperaccess.com/full/8351153.gif"  />
+<img align="right" height="155" src="https://wallpaperaccess.com/full/8351153.gif"  />
 
 ###
 
