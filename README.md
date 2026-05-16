@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 DATA SCIENCE student from India<br>📚 learning : MLOps , AI/ML , Deep Learning & DSA<br>🚀 Exploring : Generative AI, Scalable ML Systems & Advance Tech<br>✨ Dream : To become a Global ML Engineer building tech for human impact.</p>
+<p align="left">🎓 <strong>DATA SCIENCE</strong> student from India<br>📚 <strong>learning</strong> : MLOps , AI/ML , Deep Learning & DSA<br>🚀 <strong>Exploring</strong> : Generative AI, Scalable ML Systems & Advance Tech<br>✨ <strong>Dream</strong> : To become a Global ML Engineer building tech for human impact.</p>
 
 ###
 
