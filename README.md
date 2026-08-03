@@ -67,6 +67,10 @@
   <a href="https://x.com/Mali_bt08" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="twitter logo"  />
   </a>
+  </a>
+  <a href="https://www.kaggle.com/barnalitanti" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prakharjadaun" height="30" width="40" />
+  </a>
 </div>
 
 ###
