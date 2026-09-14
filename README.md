@@ -44,6 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="43" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
@@ -69,7 +73,7 @@
   </a>
   </a>
   <a href="https://www.kaggle.com/barnalitanti" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prakharjadaun" height="30" width="40" />
+    <img src="https://img.shields.io/static/v1?message=KAGGLE&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="kaggle logo" />
   </a>
 </div>
 
